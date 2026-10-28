@@ -13,7 +13,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Anggota | [Revana Tiara Oksanda] | [124400019] |
 
 - **Kelas:** [RB]
-- **Lokasi kelompok:** [0] — [Stazione Centrale] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** [0] — [Stazione Centrale]
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
