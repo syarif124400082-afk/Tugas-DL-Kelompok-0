@@ -8,12 +8,12 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | [Syarif Hidayatullah] | [124400082] |
+| Anggota | [Aura Ikhwat Riharja] | [124400010] |
+| Anggota | [Revana Tiara Oksanda] | [124400019] |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Kelas:** [RB]
+- **Lokasi kelompok:** [0] — [Stazione Centrale] (digit terakhir NIM terkecil)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
@@ -25,11 +25,11 @@ uv run jupyter lab
 
 Buka `tugas_ablasi.ipynb`, isi `LOKASI_KELOMPOK`, lalu jalankan semua sel. Semua run tercatat di `hasil/ablasi.csv`.
 
-Perangkat yang kami pakai: [contoh: laptop CPU Intel i5 / Google Colab T4], total waktu training: [x] menit.
+Perangkat yang kami pakai: [laptop CPU Ryzen 3 / Google Colab T4], total waktu training: [16.2] menit.
 
 ## Ringkasan Hasil
 
-[2–4 kalimat temuan utama, beserta angka test MAE terbaik per model.]
+[File ablasi (D).csv memuat 360 catatan eksperimen: 90 catatan untuk masing-masing model ANN, RNN, LSTM, dan GRU. Dari seluruh catatan yang ada, nilai test MAE terendah yang tercatat adalah ANN sebesar 248,52, RNN sebesar 211,25, LSTM sebesar 223,09, dan GRU sebesar 203,82.]
 
 ## Struktur
 
