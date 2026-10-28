@@ -14,7 +14,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 - **Kelas:** [RB]
 - **Lokasi kelompok:** [0] — [Stazione Centrale]
-- **Laporan:** [`laporan-typst/main.pdf`](laporan-typst/main.pdf)
+- **Laporan:** [`laporan-typst/laporan-ablasi.pdf`](laporan-typst/laporan-ablasi.pdf)
 
 ## Cara Menjalankan
 
